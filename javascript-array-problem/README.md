@@ -46,12 +46,3 @@ const result = [
 ## Instalação 
 
 Para testar o código, basta clonar o repositório, acessar a pasta do mesmo e rodar o comando `node script.js`:
-
-```bash
-
-git clone https://github.com/pedrovicentesantos/javascript-array-problem
-cd javascript-array-problem
-
-node script.js
-
-```
