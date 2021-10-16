@@ -17,7 +17,7 @@ npm install
 Por fim, para rodar os testes pode-se utilizar o script configurado no `package.json` ou executar o comando manualmente:
 
 ``` shell
-npm run dev 
+npm run test 
 
 # OU
 
